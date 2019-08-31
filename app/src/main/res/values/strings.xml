@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cadastro de Alunos</string>
+    <string name="app_exibe">Exibição do Cadastro</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtRa">RA:</string>
+    <string name="txtTurma">Turma:</string>
+    <string name="txtEmail">Email:</string>
+    <string name="txtFone">Telefone:</string>
+    <string name="btnCad">Cadastrar</string>
+</resources>
